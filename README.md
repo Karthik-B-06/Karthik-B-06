@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on React Native Design System.
+- 🌱 I’m currently learning Tailwind, NextJS.
+
+
+
 <!--
 **Karthik-B-06/Karthik-B-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

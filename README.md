@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React Native Design System.
+- 🔭 I’m currently working on a Design System with React Native.
 - 🌱 I’m currently learning Tailwind, NextJS.
-
+- 💬 Ask me about React and React Native.
 
 
 <!--

@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Design System with React Native.
-- 🌱 I’m currently learning Tailwind and Typescript, its T^2.
+- 🐣 I’m currently learning Tailwind and Typescript, its T^2.
 - 💬 Ask me about React and React Native.
-- 📘 Try to write a blog every week, you can check out my blogs [here](https://medium.com/@_iam_karthik)
+- 📘 Try to write a blog every week, you can check out my blogs [here](https://medium.com/@_iam_karthik).
+- I am a 🐨 !
 
 
 

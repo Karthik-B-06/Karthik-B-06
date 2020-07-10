@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Design System with React Native.
-- 🌱 I’m currently learning Tailwind, NextJS.
+- 🌱 I’m currently learning Tailwind and Typescript, its T^2.
 - 💬 Ask me about React and React Native.
 
 

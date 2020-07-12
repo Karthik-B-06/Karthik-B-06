@@ -4,7 +4,7 @@
 - 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
 - 💬 Ask me about React and React Native.
 - 📘 Tries to write a blog every week, you can check out my blogs [here](https://medium.com/@_iam_karthik).
-- I am a 🐨 !
+- ⚡ Fun fact: I am a 🐨 !
 
 
 

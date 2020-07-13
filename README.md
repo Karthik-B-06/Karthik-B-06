@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey folks 👋
 
 - 🔭 I’m currently working on a Design System with React Native.
 - 🐣 I’m currently learning Tailwind and Typescript, so its T^2.

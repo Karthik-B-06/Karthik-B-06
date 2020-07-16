@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a Design System with React Native.
 - 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
 - 💬 Ask me about React and React Native.
-- 📘 Tries to write a blog every week, you can check out my blogs [here](https://medium.com/@_iam_karthik).
+- 📘 Tries to write a blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
 - ⚡ Fun fact: I am a 🐨 !
 
 

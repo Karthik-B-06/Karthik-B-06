@@ -1,6 +1,6 @@
 ### Hey folks 👋
 
-<div>
+<div align='center'>
   <h2>Karthik here - A Frontend Developer !</h2>
 </div>
 

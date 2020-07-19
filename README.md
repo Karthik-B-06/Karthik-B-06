@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am a 🐨 !
 
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=007AFF)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF)
 
 **Languages and Tools:**
 

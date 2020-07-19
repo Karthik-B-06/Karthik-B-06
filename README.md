@@ -1,6 +1,5 @@
-### Hey folks 👋
-
 <div align='center'>
+  <h1>Hey folks 👋</h1>
   <h2>Karthik here - A Frontend Developer !</h2>
 </div>
 

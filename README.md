@@ -11,8 +11,9 @@
 - 📘 Tries to write a blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
 - ⚡ Fun fact: I am a 🐨 !
 
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF" />
+</a>
 
 **Languages**
 

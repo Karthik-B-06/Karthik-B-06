@@ -1,7 +1,7 @@
 ### Hey folks 👋
 
 <div>
-  <h3>Karthik Here !</h3>
+  <h2>Karthik here - A Frontend Developer !</h2>
 </div>
 
 - 🔭 I’m currently working on a Design System with React Native.

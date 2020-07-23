@@ -11,7 +11,7 @@
 - 📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF&hide=issues,contribs," />
 </a>
 
 **Languages**

@@ -7,9 +7,8 @@
 
 - 🔭 I’m currently working on a Design System with React Native.
 - 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
-- 💬 Ask me about React and React Native.
-- 📘 Tries to write a blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
-- ⚡ Fun fact: I am a 🐨 !
+- 💬 Ask mIe about React and React Native.
+- 📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF" />

@@ -5,10 +5,10 @@
   </h2>
 </div>
 
-- 🔭 I’m currently working on developing Shopping Kit with React Native.
-- 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
-- 💬 Ask mIe about React and React Native.
-- 📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
+🔭 I’m currently working on developing Shopping Kit with React Native.
+🐣 I’m currently learning Tailwind and Typescript, so its T^2.
+💬 Ask mIe about React and React Native.
+📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
 
 <div align='inline-block'>
   <a href="https://github.com/anuraghazra/github-readme-stats">

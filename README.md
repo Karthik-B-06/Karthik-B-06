@@ -10,12 +10,6 @@
 - 💬 Ask mIe about React and React Native.
 - 📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
 
-<div align='inline-block'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF&hide=issues,contribs," />
-</a>
-</div>
-
 **Languages**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
@@ -29,6 +23,12 @@
 **Tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
+
+<div align='inline-block'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF&hide=issues,contribs," />
+</a>
+</div>
 
 <!--
 **Karthik-B-06/Karthik-B-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

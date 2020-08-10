@@ -6,7 +6,7 @@
 </div>
 
 - 🔭 I’m currently working on developing Shopping Kit with React Native.
-- 🐣 I’m currently learning Tailwind and Typescript, so its T^2.
+- 🐣 I’m currently learning Typescript and React Native Animations.
 - 💬 Ask mIe about React and React Native.
 - 📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
 

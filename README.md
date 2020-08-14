@@ -1,14 +1,15 @@
 <div align='center'>
   <h2>Hey folks 👋</h2>
   <h2>
-    Karthik here - A Frontend Developer !
+    Karthik B - A Frontend Developer !
   </h2>
 </div>
 
 - 🔭 I’m currently working on developing Shopping Kit with React Native.
-- 🐣 I’m currently learning Typescript and React Native Animations.
-- 💬 Ask mIe about React and React Native.
+- 👷🏼‍♂️ Working at [Timeless](https://timeless.co/).
+- 🐢 I’m currently learning Typescript and React Native Animations.
 - 📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
+- 🐣 Connect with me in [Twitter](https://twitter.com/_iam_karthik).
 
 **Languages**
 

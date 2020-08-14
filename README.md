@@ -1,5 +1,5 @@
 <div align='center'>
-  <h2>Hey folks 👋</h2>
+  <h3>Hey folks 👋</h3>
   <h2>
     Karthik B - A Frontend Developer !
   </h2>

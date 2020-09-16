@@ -1,11 +1,11 @@
 <div align='center'>
-  <h3>Hey folks 👋</h3>
+  <h3>Hey folks 👋 </h3>
   <h2>
     Karthik B - A Frontend Developer !
   </h2>
 </div>
 
-- 🔭 I’m currently working on developing Shopping Kit with React Native.
+- 🔭 Currently building a Mobile App for Home Stay Match. 
 - 👷🏼‍♂️ Working at [Timeless](https://timeless.co/).
 - 🐢 I’m currently learning Typescript and React Native Animations.
 - 📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).

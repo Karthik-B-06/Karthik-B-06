@@ -21,10 +21,6 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/></code>
 
-**Tools**
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
-
 <div align='inline-block'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Karthik-B-06&show_icons=true&title_color=007AFF&icon_color=007AFF&text_color=007AFF&hide=issues,contribs," />

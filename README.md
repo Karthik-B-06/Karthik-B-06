@@ -8,8 +8,9 @@
 - 🔭 Currently building a Mobile App for Home Stay Match. 
 - 👷🏼‍♂️ Working at [Timeless](https://timeless.co/).
 - 🐢 I’m currently learning Typescript with React Native.
-- 📘 I try to write one blog every week, you can check it out [here](https://medium.com/@_iam_karthik).
+- :black_nib:  Blogging [here](https://medium.com/@_iam_karthik).
 - 🐣 Connect with me in [Twitter](https://twitter.com/_iam_karthik).
+- :basketball:  Learning 3D. Checkout my Dribble Profile [here](https://dribbble.com/karthik_b).
 
 **Languages**
 

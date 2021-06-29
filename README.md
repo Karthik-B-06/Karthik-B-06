@@ -8,9 +8,10 @@
 - 🔭 Currently building a Mobile App for Home Stay Match. 
 - 👷🏼‍♂️ Working at [Timeless](https://timeless.co/).
 - 🐢 I’m currently learning Typescript with React Native.
-- :black_nib:  Check out my blogs [here](https://medium.com/@_iam_karthik).
+- :black_nib:  Check out my blogs in [Medium](https://medium.com/@_iam_karthik).
+- :arrow_forward:  Check out my videos in [YouTube](https://www.youtube.com/channel/UC-tRdW6AvItIsYfKj0y09aA).
 - 🐣 Connect with me in [Twitter](https://twitter.com/_iam_karthik).
-- :basketball:  Learning 3D. Checkout my Dribble Profile [here](https://dribbble.com/karthik_b).
+- :basketball: Learning 3D. Checkout my Dribble Profile [here](https://dribbble.com/karthik_b).
 
 **Languages**
 
@@ -29,16 +30,6 @@
 </div>
 
 <!--
-**Karthik-B-06/Karthik-B-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-B-06"/>
-</a>
-
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

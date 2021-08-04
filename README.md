@@ -12,7 +12,7 @@
 - :arrow_forward:  Watch my videos in [YouTube](https://www.youtube.com/channel/UC-tRdW6AvItIsYfKj0y09aA).
 - 🐣 Connect with me in [Twitter](https://twitter.com/_iam_karthik).
 - :basketball: Learning 3D. Checkout my Dribble Profile [here](https://dribbble.com/karthik_b).
-- :rocket: Built Dashing Dish [iOS](https://apps.apple.com/us/app/dashing-dish/id977480745) and [Android](https://play.google.com/store/apps/details?id=com.dashingdish).
+- :rocket: Built Dashing Dish ([iOS](https://apps.apple.com/us/app/dashing-dish/id977480745) and [Android](https://play.google.com/store/apps/details?id=com.dashingdish)).
 
 **Languages**
 
